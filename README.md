@@ -1,2 +1,18 @@
-# ore-grade-predictor
-Zion AI App Network (Batch 109 — Mining &amp; Metals AI): ore grade prediction from drill &amp; sensor data for mine planning. Live: https://ziontechgroup.com/ore-grade-predictor/
+# Ore Grade Predictor 🪨
+
+Ore grade prediction from drill-hole and sensor data for mine planning, blending and reconciliation.
+
+Part of the **Zion AI App Network — Batch 109: Mining & Metals AI**.
+
+- Live app: https://ziontechgroup.com/ore-grade-predictor/
+- Batch overview: https://ziontechgroup.com/apps/october-2026-batch109-mining-ai.html
+- Master hub: https://github.com/Zion-support/zion-app-network
+- Apps directory: https://ziontechgroup.com/apps/
+- Free Discovery (always online, always free): https://ziontechgroup.com/discovery/
+
+## Related apps in Batch 109
+- [Mine Safety Sentinel](https://github.com/Zion-support/mine-safety-sentinel)
+- [Mining Fleet Optimizer](https://github.com/Zion-support/mining-fleet-optimizer)
+- [Tailings Dam Monitor](https://github.com/Zion-support/tailings-dam-monitor)
+
+© 2026 Zion Tech Group — commercial@ziontechgroup.com
