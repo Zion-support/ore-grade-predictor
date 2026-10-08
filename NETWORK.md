@@ -1,26 +1,26 @@
-# Ore Grade Predictor — Zion AI App Network interlinks
+# Ore Grade Predictor — Zion App Network
 
-Part of **Zion AI App Network — Batch 109 (Mining & Metals AI)** — free, interlinked AI tools by [Zion Tech Group](https://ziontechgroup.com).
+## Status and scope
+Documented app concept for ore-grade estimation planning. The repository currently contains documentation and network links, not a validated prediction model. The published page is a landing page; availability does not certify functionality or production readiness. Validate sampling, uncertainty and holdout performance before operational decisions.
 
-## This app
-- **Live app:** https://ziontechgroup.com/ore-grade-predictor/
-- **Repo:** https://github.com/Zion-support/ore-grade-predictor
-- **What it does:** Ore grade prediction from drill-hole and sensor data for mine planning, blending and reconciliation.
+## App and source
+- [App landing page](https://ziontechgroup.com/ore-grade-predictor/)
+- [Repository](https://github.com/Zion-support/ore-grade-predictor)
 
-## Batch 109 — Mining & Metals AI (full mesh)
-- [Mine Safety Sentinel](https://github.com/Zion-support/mine-safety-sentinel) — [live app](https://ziontechgroup.com/mine-safety-sentinel/)
-- [Mining Fleet Optimizer](https://github.com/Zion-support/mining-fleet-optimizer) — [live app](https://ziontechgroup.com/mining-fleet-optimizer/)
-- [Tailings Dam Monitor](https://github.com/Zion-support/tailings-dam-monitor) — [live app](https://ziontechgroup.com/tailings-dam-monitor/)
+## Mining & Metals — reciprocal app links
+- [Mine Safety Sentinel](https://ziontechgroup.com/mine-safety-sentinel/) · [source](https://github.com/Zion-support/mine-safety-sentinel)
+- [Mining Fleet Optimizer](https://ziontechgroup.com/mining-fleet-optimizer/) · [source](https://github.com/Zion-support/mining-fleet-optimizer)
+- [Tailings Dam Monitor](https://ziontechgroup.com/tailings-dam-monitor/) · [source](https://github.com/Zion-support/tailings-dam-monitor)
 
-## Batch overview & network
-- Batch 109 showcase: https://ziontechgroup.com/apps/october-2026-batch109-mining-ai.html
-- Apps directory: https://ziontechgroup.com/apps/
-- Network explorer: https://ziontechgroup.com/apps/network.html
-- Master hub repo: https://github.com/Zion-support/zion-app-network
+## Translated Discovery guides
+[English](https://ziontechgroup.com/apps/mining-discovery-guide.html) · [Português](https://ziontechgroup.com/pt/apps/mining-discovery-guide.html) · [Español](https://ziontechgroup.com/es/apps/mining-discovery-guide.html) · [Français](https://ziontechgroup.com/fr/apps/mining-discovery-guide.html) · [Deutsch](https://ziontechgroup.com/de/apps/mining-discovery-guide.html)
 
-## Related apps across the network
-- [Support Ticket Triager](https://ziontechgroup.com/support-ticket-triager/) · [SLA Breach Predictor](https://ziontechgroup.com/sla-breach-predictor/) · [AI Workflow Automator](https://github.com/Zion-support/zion-ai-workflow-automator)
+## Network and next steps
+[Mining overview](https://ziontechgroup.com/apps/october-2026-batch109-mining-ai.html) · [Apps directory](https://ziontechgroup.com/apps/) · [Network map](https://ziontechgroup.com/apps/network.html) · [Master hub](https://github.com/Zion-support/zion-app-network) · [Home](https://ziontechgroup.com/)
 
-## Free Discovery — always online, always free
-Fill our 3-minute questionnaire and instantly receive a tailored AI opportunity report. Results are emailed to you and to our commercial team (commercial@ziontechgroup.com) the moment you submit.
-👉 https://ziontechgroup.com/discovery/ · Benefits: https://ziontechgroup.com/apps/discovery-benefits.html
+[Support Ticket Triager](https://ziontechgroup.com/support-ticket-triager/) · [SLA Breach Predictor](https://ziontechgroup.com/sla-breach-predictor/) · [AI Workflow Automator](https://github.com/Zion-support/zion-ai-workflow-automator) · [Governance Checklist](https://ziontechgroup.com/ai-governance-checklist/)
+
+## Free Discovery
+[Always-free online questionnaire](https://ziontechgroup.com/discovery/) · [Benefits](https://ziontechgroup.com/apps/discovery-benefits.html)
+
+The report appears immediately and is submitted for email delivery to the validated client address and commercial@ziontechgroup.com, with no additional automatic CC. Provider acceptance is not confirmed inbox delivery. Copy, download and manual fallback remain available. No paid engagement is created.
